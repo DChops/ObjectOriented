@@ -1,0 +1,39 @@
+Group Photo - Dhruv, Rahul, Pratham, Neha, Faizan
+Introduction of members and group number 
+
+<Scenario A : A family of 4 has reserved a table and are now checking their reservation and ordering>
+1. Check Reservation of said family/reserver name
+2. Check if Reservation is valid
+3. Get Order from Family
+4. Successfully carry out order
+5. Check Membership and print Invoice accordingly
+6. Clear everything
+
+<Scenario B : A family of 7 is late for their Reservation and treated as Walk-In Customer>
+1. Check Reservation of said family/reserver name
+2. Check that Reservation has been cancelled
+3. Treat the family as a Walk-in customer (Create A Reservation)
+4. Get Order from Family
+5. Successfully carry out order
+6. Check Membership and print Invoice accordingly
+7. Clear everything
+
+<Scenario C : The Staff are introducing new Packages/Menu Items for the Holiday Season>
+1. Create MenuItems
+2. Create PackageItems
+
+<Scenario D : A single person has reserved a table>
+1. Check Reservation of said person/reserver name
+2. Check if Reservation is valid
+3. Get Order from Family
+4. Successfully carry out order
+5. Check Membership and print Invoice accordingly
+6. Clear everything
+
+<Scenario E : A family of 5 is calling in for reservation but all tables are reserved>
+1. Check Reservation of said family/reserver name
+2. Confirm that they don't have a reservation
+3. Treat customer as walk-in
+4. Tables are full so customer is turned away
+
+
